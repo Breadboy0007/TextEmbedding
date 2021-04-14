@@ -1,2 +1,2 @@
-# TextEmbedding
-Simple Text Embedding
+# WordEmbeddings
+Simple Word Embeddings
